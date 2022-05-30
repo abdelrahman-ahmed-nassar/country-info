@@ -37,7 +37,7 @@ const renderError = function (msg) {
 //////////////////////////////////////
 // get country name
 const userCountry = prompt(
-  "tell me the name of the country you need information about"
+  "write the name of the country you want information about."
 );
 
 // replace the fetch and the first then and converting to json
